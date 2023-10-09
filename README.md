@@ -1,4 +1,4 @@
-# Spring Boot - Api básica
+# Spring Boot - Api
 
 Criação de uma API com 3 endpoints, demonstrando os conceitos básicos do Java e Spring.
 
